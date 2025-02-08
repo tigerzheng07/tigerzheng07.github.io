@@ -6,7 +6,7 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
+# Basic Site Settingss
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Your Name / Site Title"
@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "avatar.jpg"
+  name             : "tyler zheng"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "China ChengDu"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tylerzheng07@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
